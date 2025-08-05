@@ -63,3 +63,12 @@ Error Correction: Implement error-checking and correction codes (like parity bit
 GUI: A simple graphical user interface could be built to make the application more user-friendly.
 
 Improved Demodulation: The current frequency detection is basic. A more robust method using a Fast Fourier Transform (FFT) on each segment would provide more accurate demodulation.
+
+
+## Web Page view
+
+![pixel2](https://github.com/user-attachments/assets/e461fc0b-620e-48b9-ba5d-810083535d19)
+![pixel ](https://github.com/user-attachments/assets/e5911bc8-c274-41a9-a000-3531adab4bba)
+
+
+
